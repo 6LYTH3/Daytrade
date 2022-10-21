@@ -1,0 +1,11 @@
+,symbol,sign,last,percentChange,totalVolume,industry,sector,cors,detail
+0,PCC,,3.42,-14.5,578.82,RESOURC,ENERG,,โรงไฟฟ้าพลังงานทดแทน และติดตั้งระบบไฟฟ้า
+1,SUPER,,0.72,-4.0,411.41,RESOURC,ENERG,,ไฟฟ้าเซลล์แสงอาทิตย์
+2,TTB,,1.29,0.78,383.01,FINCIAL,BANK,,กลาง
+3,STARK,,3.26,-6.86,151.42,INDUS,IMM,,สายไฟฟ้า
+4,SIRI,,1.25,-2.34,125.04,PROPCON,PROP,ITD NWR SIRI,คอนโดและบ้านจัดสรร พัฒนาอสังหาริมทรัพย์
+5,TRUE,,5.0,-1.96,122.89,TECH,ICT,,บริการสื่อสารโทรคมนาคม
+6,TGE,,1.9,1.06,59.89,RESOURC,ENERG,,ไฟฟ้าชีวมวล -ขยะ
+7,U,,1.55,-1.27,54.65,PROPCON,PROP,,คอนโดและบ้านจัดสรร พัฒนาอสังหาริมทรัพย์
+8,WHA,,3.58,-1.1,53.05,PROPCON,PROP,,นิคมอุตสาหกรรม
+9,GRAND,,0.22,-4.35,52.23,SERVICE,TOURISM,,โรงแรม
