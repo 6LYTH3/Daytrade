@@ -1,0 +1,11 @@
+,symbol,sign,last,percentChange,totalVolume,industry,sector,cors,detail
+0,SPACK,,4.52,14.72,103.17,INDUS,PKG,UTP SCGP SPACK TPAC,กระดาษบรรจุภัณฑ์
+1,SMK,"C, NP",6.45,11.21,4.21,FINCIAL,INSUR,,ประกันวินาศภัย
+2,MBK,,18.2,8.98,20.61,PROPCON,PROP,,ดูแลพื้นที่ให้เช่าในศูนย์การค้า
+3,SA,,9.3,8.77,3.26,PROPCON,PROP,,
+4,OHTL,,456.0,7.04,0.0,SERVICE,TOURISM,,โรงแรม
+5,SRICHA,,10.9,6.86,3.01,PROPCON,CONS,,งานก่อสร้างโลหะ
+6,PPPM,"C, NP",0.16,6.67,13.52,AGRO,AGRI,,อาหารสัตว์
+7,DELTA,,594.0,6.45,4.75,TECH,ETRON,,ชิ้นส่วนอิเล็คทรอนิกส์ สถานีชาร์จรถไฟฟ้า
+8,TQM,,37.25,5.67,5.03,FINCIAL,INSUR,TQR TQM,ประกันรถยนต์และประกันภัย
+9,KWI,,3.98,5.29,3.15,FINCIAL,INSUR,KWM KWI,ประกันชีวิต
