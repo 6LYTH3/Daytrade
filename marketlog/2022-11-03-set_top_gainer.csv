@@ -1,0 +1,11 @@
+,symbol,sign,last,percentChange,totalVolume,industry,sector,cors,detail
+0,AQ,C,0.03,50.0,15.68,PROPCON,PROP,,คอนโดและบ้านจัดสรร พัฒนาอสังหาริมทรัพย์
+1,INSURE,,309.0,29.83,0.02,FINCIAL,INSUR,,ประกันวินาศภัย
+2,TEGH,,4.72,13.46,101.27,AGRO,AGRI,,
+3,MNIT,,1.78,12.66,0.01,PROPCON,PF&REIT,,
+4,LPN,,4.6,9.52,69.01,PROPCON,PROP,,คอนโดและบ้านจัดสรร พัฒนาอสังหาริมทรัพย์
+5,VNG,,6.3,7.69,3.76,PROPCON,CONMAT,,แผ่นไม้
+6,STARK,,3.42,7.55,132.9,INDUS,IMM,,สายไฟฟ้า
+7,KWI,,4.2,7.14,42.54,FINCIAL,INSUR,KWM KWI,ประกันชีวิต
+8,NEW,,65.25,6.97,0.0,SERVICE,HELTH,,
+9,CGD,,0.48,6.67,21.16,PROPCON,PROP,,คอนโดและบ้านจัดสรร พัฒนาอสังหาริมทรัพย์

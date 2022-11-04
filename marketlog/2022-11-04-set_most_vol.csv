@@ -1,0 +1,11 @@
+,symbol,sign,last,percentChange,totalVolume,industry,sector,cors,detail
+0,AQUA,,0.67,3.08,235.64,SERVICE,MEDIA,,
+1,TTB,,1.37,-1.44,220.43,FINCIAL,BANK,,กลาง
+2,WAVE,C,0.14,-6.67,189.47,SERVICE,MEDIA,,
+3,PCC,,3.66,2.81,184.17,RESOURC,ENERG,,โรงไฟฟ้าพลังงานทดแทน และติดตั้งระบบไฟฟ้า
+4,GRAND,,0.23,0.0,163.57,SERVICE,TOURISM,,โรงแรม
+5,BANPU,,12.9,2.38,120.35,RESOURC,ENERG,,ถ่านหิน
+6,AAI,,7.85,-4.27,119.77,,,,อาหารทะเลแช่แข็ง
+7,GJS,,0.37,8.82,81.61,INDUS,STEEL,GJS TGPRO,เหล็กม้วน เหล็กรีดร้อน/เย็น
+8,IRPC,,3.2,0.63,99.55,RESOURC,ENERG,,โรงกลั่นนํ้ามัน
+9,VGI,,3.9,4.28,73.5,SERVICE,MEDIA,,ธุรกิจโฆษณา
