@@ -1,0 +1,11 @@
+,symbol,sign,last,percentChange,totalVolume,industry,sector,cors,detail
+0,CSR,,74.0,9.63,0.0,SERVICE,TOURISM,,สนามกอล์ฟ
+1,RCL,,31.5,9.57,21.35,SERVICE,TRANS,TTA PSL RCL,ตู้คอนเทนเนอร์
+2,GLOCON,,0.81,9.46,97.86,AGRO,FOOD,,อาหารแช่แข็ง และผลิตขวดPET
+3,SFP,,133.5,9.43,0.0,AGRO,FOOD,,สัปปะรด
+4,TFG,,5.45,9.0,48.08,AGRO,FOOD,,ไก่
+5,TIDLOR,,27.25,7.92,34.53,FINCIAL,FIN,,สินเชื่อ
+6,BGRIM,,37.25,7.19,54.75,RESOURC,ENERG,,ผลิตไฟฟ้า
+7,WAVE,C,0.16,6.67,153.04,SERVICE,MEDIA,,
+8,NTV,,41.0,6.49,0.42,SERVICE,HELTH,,โรงพยาบาลขนาดกลาง
+9,HANA,,39.0,6.12,13.38,TECH,ETRON,,วงจรอิเล็กทรอนิกส์สําหรับยานยนต์และเครื่องใช้ไฟฟ้า

@@ -1,0 +1,11 @@
+,symbol,sign,last,percentChange,totalVolume,industry,sector,cors,detail
+0,TTB,,1.36,0.74,322.13,FINCIAL,BANK,,กลาง
+1,SIRI,,1.37,3.01,229.2,PROPCON,PROP,ITD NWR SIRI,คอนโดและบ้านจัดสรร พัฒนาอสังหาริมทรัพย์
+2,VGI,,4.24,9.84,150.17,SERVICE,MEDIA,,ธุรกิจโฆษณา
+3,WAVE,C,0.14,-6.67,116.09,SERVICE,MEDIA,,
+4,CGD,,0.48,-4.0,97.38,PROPCON,PROP,,คอนโดและบ้านจัดสรร พัฒนาอสังหาริมทรัพย์
+5,BANPU,,12.5,-1.57,90.7,RESOURC,ENERG,,ถ่านหิน
+6,JKN,,4.96,7.83,90.28,SERVICE,MEDIA,,
+7,SUPER,,0.67,-1.47,90.0,RESOURC,ENERG,,ไฟฟ้าเซลล์แสงอาทิตย์
+8,JAS,,2.54,6.72,87.96,TECH,ICT,MONO JAS,บริการสื่อสารโทรคมนาคม
+9,PTT,,33.5,-1.47,85.73,RESOURC,ENERG,,พลังงาน ปิโตรเคมี

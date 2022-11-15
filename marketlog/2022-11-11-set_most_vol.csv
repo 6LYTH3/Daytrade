@@ -1,0 +1,11 @@
+,symbol,sign,last,percentChange,totalVolume,industry,sector,cors,detail
+0,TTB,,1.36,0.0,234.81,FINCIAL,BANK,,กลาง
+1,WAVE,C,0.16,6.67,153.04,SERVICE,MEDIA,,
+2,TRITN,,0.19,-5.0,141.35,PROPCON,CONS,,รับเหมาขนาดเล็ก
+3,BANPU,,12.8,0.79,136.95,RESOURC,ENERG,,ถ่านหิน
+4,TLI,,14.8,-3.9,124.11,FINCIAL,INSUR,TLI PL,ประกันชีวิตและวางแผนการเงิน
+5,GUNKUL,,5.3,2.91,118.77,RESOURC,ENERG,,ผลิตไฟฟ้า
+6,CHG,,3.56,-3.78,118.09,SERVICE,HELTH,,โรงพยาบาลขนาดกลาง
+7,AQUA,,0.74,0.0,107.34,SERVICE,MEDIA,,
+8,CGD,,0.5,2.04,106.54,PROPCON,PROP,,คอนโดและบ้านจัดสรร พัฒนาอสังหาริมทรัพย์
+9,GLOCON,,0.81,9.46,97.86,AGRO,FOOD,,อาหารแช่แข็ง และผลิตขวดPET
