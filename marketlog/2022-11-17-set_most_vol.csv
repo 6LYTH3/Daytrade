@@ -1,0 +1,11 @@
+,symbol,sign,last,percentChange,totalVolume,industry,sector,cors,detail
+0,AQ,C,0.02,-33.33,181.71,PROPCON,PROP,,คอนโดและบ้านจัดสรร พัฒนาอสังหาริมทรัพย์
+1,POLY,,7.4,1.37,114.6,,,,
+2,BDMS,,29.0,-4.13,114.39,SERVICE,HELTH,,โรงพยาบาลขนาดใหญ่
+3,TTB,,1.36,-0.73,106.25,FINCIAL,BANK,,กลาง
+4,SIRI,,1.39,2.96,104.1,PROPCON,PROP,ITD NWR SIRI,คอนโดและบ้านจัดสรร พัฒนาอสังหาริมทรัพย์
+5,TH,,3.4,-9.57,86.65,FINCIAL,FIN,,
+6,PTT,,33.0,-1.49,71.71,RESOURC,ENERG,,พลังงาน ปิโตรเคมี
+7,SUPER,,0.67,0.0,65.01,RESOURC,ENERG,,ไฟฟ้าเซลล์แสงอาทิตย์
+8,BANPU,,12.5,0.0,63.96,RESOURC,ENERG,,ถ่านหิน
+9,LH,,9.35,1.63,63.45,PROPCON,PROP,AP LH SPALI PSH SC,คอนโดและบ้านจัดสรร พัฒนาอสังหาริมทรัพย์
